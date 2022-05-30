@@ -1,0 +1,14 @@
+{
+    "Política de privacidade": "Privacy policy",
+    "Termos de uso": "Terms of use",
+    "Login efetuado com sucesso":"You have successfully logged in!",
+    "Continuar":"Proceed",
+    "O campo e-mail é obrigatório": "E-mail é obrigatório",
+    "Valor de e-mail inválido": "Este não é um e-mail válido",
+    "O campo senha é obrigatório": "A senha é obrigatória",
+    "Insira uma senha válida": "Digite uma senha válida",
+    "Dados inválidos.":"The given data was invalid.",
+    "Usuário e/ou senha incorretos.": "These credentials do not match our records.",
+    "A senha informada está incorreta.": "The provided password is incorrect.",
+    "Tentativas de login excedidas. Tente novamente em :seconds segundos.": "Too many login attempts. Please try again in :seconds seconds."
+}
